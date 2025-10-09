@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Deep Blue",
+    
+    "description": "IBM supercomputer that defeated Garry Kasparov in 1997."
+  },
+  {
+    "title": "Fritz",
+    
+    "description": "Commercial chess engine and GUI for Windows, popular in the 2000s."
+  }
+]

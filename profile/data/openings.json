@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Sicilian Defense",
+    
+    "description": "Popular chess opening starting with 1.e4 c5, very aggressive for black."
+  },
+  {
+    "title": "Queen's Gambit",
+    
+    "description": "Opening starting with 1.d4 d5 2.c4, classic and strategic choice for white."
+  },
+  {
+    "title": "King's Indian Defense",
+    
+    "description": "Dynamic defense for black against 1.d4, involves fianchettoed bishop and central pawn pushes."
+  }
+]

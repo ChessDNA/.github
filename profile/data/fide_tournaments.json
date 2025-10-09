@@ -1,0 +1,30 @@
+{
+  "recent_tournaments": [
+    {
+      "id": "2025-10-chessworldcup",
+      "name": "FIDE World Cup 2025",
+      "start": "2025-10-01",
+      "end": "2025-10-14",
+      "link": "https://ratings.fide.com/tournament_details.phtml?event=123456",
+      "players": {
+        "gukesh": { "rank": 2, "points": 8.5 },
+        "praggnanandhaa": { "rank": 5, "points": 7.0 },
+        "erigaisi": { "rank": 10, "points": 6.0 },
+        "levy": null
+      }
+    },
+    {
+      "id": "2025-09-grandswiss",
+      "name": "FIDE Grand Swiss 2025",
+      "start": "2025-09-18",
+      "end": "2025-09-30",
+      "link": "https://ratings.fide.com/tournament_details.phtml?event=7891011",
+      "players": {
+        "gukesh": { "rank": 1, "points": 9.0 },
+        "praggnanandhaa": { "rank": 4, "points": 7.5 },
+        "erigaisi": { "rank": 8, "points": 6.5 },
+        "levy": null
+      }
+    }
+  ]
+}

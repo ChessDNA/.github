@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Magnus Carlsen",
+    "username": "magnuscarlsen",
+    "description": "Norwegian grandmaster, former World Chess Champion, highest-rated player in history."
+  },
+  {
+    "title": "Fabiano Caruana",
+    "username": "fabianocaruana",
+    "description": "Italian-American grandmaster, contender for the World Chess Championship."
+  },
+  {
+    "title": "Hikaru Nakamura",
+    "username": "hikaru",
+    "description": "American grandmaster, blitz specialist, and popular streamer."
+  },
+  {
+    "title": "Viswanathan Anand",
+    "username": "vishy",
+    "description": "Indian grandmaster, former World Chess Champion, legendary rapid player."
+  },
+  {
+    "title": "Gukesh D",
+    "username": "gukeshd",
+    "description": "Indian grandmaster, youngest player to reach 2700 Elo."
+  },
+  {
+    "title": "Wesley So",
+    "username": "wesleyso",
+    "description": "Filipino-American grandmaster, former U.S. Champion and elite rapid/blitz player."
+  },
+  {
+    "title": "Alireza Firouzja",
+    "username": "alireza2003",
+    "description": "Iranian-French grandmaster, one of the top young talents in the world."
+  },
+  {
+    "title": "Anish Giri",
+    "username": "anishgiri",
+    "description": "Dutch grandmaster, multiple-time Candidates participant."
+  },
+  {
+    "title": "Garry Kasparov",
+    
+    "description": "Former World Chess Champion, Russian grandmaster, considered one of the greatest players of all time."
+  },
+  {
+    "title": "Bobby Fischer",
+    
+    "description": "American grandmaster and 11th World Chess Champion, famous for winning the 1972 match against Boris Spassky."
+  },
+  {
+    "title": "Judit Polgar",
+  
+    "description": "Hungarian grandmaster, considered the strongest female chess player in history."
+  },
+  {
+    "title": "Sagar Shah",
+    "username": "sagarshah",
+    "description": "Indian international Master, popular chess content creator and educator."
+  }
+]

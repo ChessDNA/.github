@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Stockfish",
+  
+    "description": "Open-source chess engine, extremely powerful and widely used in analysis."
+  },
+  {
+    "title": "AlphaZero",
+   
+    "description": "AI developed by DeepMind Google LLC, revolutionized chess with self-learning techniques."
+  },
+  {
+    "title": "Komodo",
+
+    "description": "Commercially available chess engine known for positional understanding."
+  }
+]
