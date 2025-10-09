@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChessDNA Wiki</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">♟</div>
+    <div>
+      <div class="title">ChessDNA Wiki</div>
+      <div class="subtitle">The Wikipedia of Chess</div>
+    </div>
+  </div>
+  <div class="controls">
+    <input id="searchInput" placeholder="Search articles...">
+  </div>
+</header>
+
+<div class="container">
+  <nav class="sidebar">
+    <h3>Categories</h3>
+    <ul>
+      <li data-category="players">Players</li>
+      <li data-category="engines">Engines</li>
+      <li data-category="tournaments">Tournaments</li>
+      <li data-category="openings">Openings</li>
+      <li data-category="computers">Chess Computers</li>
+      <li data-category="games">Famous Games</li>
+    </ul>
+  </nav>
+
+  <main id="wikiContent">
+    <h2>Welcome to ChessDNA Wiki</h2>
+    <p>Select a category or search above to explore articles.</p>
+  </main>
+</div>
+
+<footer>
+  <p>© 2025 ChessDNA — <a href="https://github.com/chessdna" target="_blank">GitHub</a></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
